@@ -7,7 +7,7 @@ Create CSV Report with specific format
 - Codeigniter 3.1 
 
 
-#how to use
+# How to use
 
 1. Put that function on your controller ( can use on json controller too )
 2. call that function ( use your parameter if needed )
